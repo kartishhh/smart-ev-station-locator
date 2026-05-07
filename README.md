@@ -57,16 +57,16 @@ EVChargerPlannerApp/
 
 ## 🔧 Installation & Run Instructions
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/sunidhi009/EVChargerPlannerApp.git
+1. **Clone the Repository*
+2. https://github.com/kartishhh/smart-ev-station-locator
+  
    cd EVChargerPlannerApp
 
-2. **Install dependencies**
+3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
 
-3. **Run the App**
+4. **Run the App**
    ```bash
    streamlit run app.py
 Open your browser at http://localhost:8501 to access the app.
